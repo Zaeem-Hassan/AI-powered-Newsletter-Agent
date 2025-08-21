@@ -45,11 +45,6 @@ Import the workflow into n8n
 
 Run the workflow and watch your AI-generated newsletter appear in Gmail
 
-🔗 Live Project / GitHub
-
-Check out all project files here:
-AI-powered Newsletter Agent
-
 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome! Open an issue or pull request to collaborate.
